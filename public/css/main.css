@@ -1,0 +1,25 @@
+body{
+
+  background:url('/img/home.gif') no-repeat;
+background-size: cover;
+}
+h1{
+  color:#FDFD96;
+}
+h2{
+  color:#FFFDD0;
+
+}
+.mid{margin-top: 7%;
+text-align: center;}
+
+a{ color:lightgrey;
+  font-size: 1.5em;
+  margin-left: 50px;
+
+  text-decoration: none;
+}
+.nav{
+  margin-left: 70%;
+  margin-top: -2%;
+}
